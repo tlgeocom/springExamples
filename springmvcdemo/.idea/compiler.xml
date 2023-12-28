@@ -7,15 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvcdemo" />
-        <module name="springDemo" />
-        <module name="springTest" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="jetty" target="1.8" />
-      <module name="springDemo" target="1.8" />
-      <module name="springmvcdemo" target="1.8" />
-      <module name="springTest" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
