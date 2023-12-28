@@ -10,7 +10,6 @@ public class App {
         //2.从IOC容器中获取bean实例
 
 
-
         MavenAndSpring mavenAndSpring = (MavenAndSpring) ac.getBean("mavenAndSpring");
         mavenAndSpring.hello();
     }
