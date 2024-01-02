@@ -4,60 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f45bab6-c3c4-49fe-b12b-89b6426a8f21" name="Changes" comment="Modify App.java">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvcdemo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springmvcdemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_22_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/src/main/java/com/springTest/Api.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/src/main/java/com/springTest/ApiOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/src/main/java/com/springTest/ApiTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/src/main/java/com/springTest/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springTest/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/springmvcdemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/src/main/java/com/promonkey/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvcdemo/src/main/resources/springmvcConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/resources/applicationContext.xml" afterDir="false" />
+    <list default="true" id="7f45bab6-c3c4-49fe-b12b-89b6426a8f21" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springTest" beforeDir="false" afterPath="$PROJECT_DIR$/springTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springTest/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springTest/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvcdemo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springmvcdemo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvcdemo/src/main/resources/springmvcConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvcdemo/src/main/java/springmvcConfig.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +54,9 @@
       <recent name="D:\code\SpringExamples\springDemo" />
       <recent name="D:\code\SpringExamples\springmvcdemo" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\SpringExamples\springmvcdemo\src\main\java" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -132,7 +89,11 @@
       <workItem from="1703731887415" duration="322000" />
       <workItem from="1703732218957" duration="4032000" />
       <workItem from="1703739856760" duration="3252000" />
-      <workItem from="1703750323686" duration="134000" />
+      <workItem from="1703750323686" duration="5035000" />
+      <workItem from="1703826845680" duration="1792000" />
+      <workItem from="1703836430203" duration="403000" />
+      <workItem from="1703837640555" duration="4622000" />
+      <workItem from="1704160203183" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="Modify App.java">
       <created>1703733611665</created>
@@ -148,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703733735195</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1703750648658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703750648658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modify App.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify App.java" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
